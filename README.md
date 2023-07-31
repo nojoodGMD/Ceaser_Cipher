@@ -1,1 +1,1 @@
-"# Ceaser_Cipher" 
+"Ceasar Cipher is a game that can be played with your friends to exchanged encoded messeges. Be sure to agree on a certain shift value (for example, number 9) so you can later decode the encoded message. Have fun :D" 
